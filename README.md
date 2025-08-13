@@ -1,1 +1,2 @@
-wsl configuration files
+# Font
+JetBrains Mono 12 Semi-Bold
